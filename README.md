@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# React with Material UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project recipe was from React Cookbook and basic setup with [MaterialUI](https://mui.com/).
+
+## MateriaUI Installations
+
+### `npm install @material-ui/core @material-ui/icons fontsource-roboto --legacy-peer-deps`
+
+or
+
+### `npm install @material-ui/core @material-ui/icons fontsource-roboto --force`
 
 ## Available Scripts
 
